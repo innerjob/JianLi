@@ -6,19 +6,13 @@
   系别：软件系                    专业：信息工程移动互联网应用与开发  
   描述：喜欢与人交朋友    
 # 技能描述
-  * 熟悉html（5），css(3) 和photoshop基础
-  * 熟悉c++，javase语言
-  * 了解php能做些基础交互页面
-  * 了解数据库并会使用mysql，sqlserver数据库
-  * 使用apache,tomcat作为服务器
-  * 了解javascript基础，也在自学进阶中
-  * 了解jQuery，bootstrap框架的使用
+  * 熟悉html（5），css(3) 和photoshop基础，了解PR及AE两款视频处理软件的使用
+  * 熟悉c++，javase语言,熟悉javaee,sevlet，jsp，了解xml的数据存储及在java的创建
+  * 正在学习ssh后端框架中（struts,spring,hibernate），目前打算往java后端这方面发展
+  * 了解php能做些基础交互页面，了解数据库并会使用mysql，sqlserver数据库，常用apache,tomcat作为服务器
+  * 了解javascript基础，也在自学进阶中，了解jQuery，bootstrap等前端框架的使用
   * 熟悉linux系统的文件操作
-  * 熟悉javaee,了解sevlet，jsp
-  * 正在学习ssh框架中（struts,spring,hibernate），目前打算往java后端这方面发展
   * 了解android，用jsoup框架对学校教务系统的数据进行抓取，做成简单的学生信息查看软件
-  * 了解PR及AE两款视频处理软件的使用
-  * 了解xml的数据存储及在java的创建 
   * 能自主学习，在imooc，网易云课堂等学习网站学习，平时也下载视频资源学习
   
 # 技能证书
